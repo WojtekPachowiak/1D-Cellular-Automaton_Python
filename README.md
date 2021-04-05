@@ -1,4 +1,4 @@
-#🎰 1D-Cellular-Automaton in Python
+# 🎰 1D-Cellular-Automaton in Python
 1D Cellular Automaton in Python with Matplotlib visualisation. 
 
 ![1DCell](https://user-images.githubusercontent.com/50328147/113577585-c9e13980-9621-11eb-9327-4b7a0d7f58e6.png)
