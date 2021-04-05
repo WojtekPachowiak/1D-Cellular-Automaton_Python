@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import keyboard
 
 #mpl.rcParams['toolbar'] = 'None'
 #######################################################################################
@@ -64,8 +63,6 @@ matrix[:,[0,-1]] = 2
 cellsOnLocations = [20,50,80]
 matrix[0][cellsOnLocations] = 1
 
-# Two ways of setting up the rules
-rulesArray = np.array([1,0,0,0,1,1,1,1])
 rulesNumber = 57    #57 is beautiful!
 
 slideshow = False
